@@ -1,0 +1,8 @@
+C:\Users\Cuhleeevunt\Desktop\githubShit\ece196\spinning-and-blinking-team-12\firmware\target\release\build\xtensa-lx-rt-9add8f2602d95cb9\build_script_build-9add8f2602d95cb9.exe: C:\Users\Cuhleeevunt\.cargo\git\checkouts\esp-hal-42ec44e8c6943228\0981c1b\xtensa-lx-rt\build.rs C:\Users\Cuhleeevunt\.cargo\git\checkouts\esp-hal-42ec44e8c6943228\0981c1b\xtensa-lx-rt\xtensa.in.x C:\Users\Cuhleeevunt\.cargo\git\checkouts\esp-hal-42ec44e8c6943228\0981c1b\xtensa-lx-rt\interrupt_level_masks.rs.jinja C:\Users\Cuhleeevunt\.cargo\git\checkouts\esp-hal-42ec44e8c6943228\0981c1b\xtensa-lx-rt\exception-esp32.x.jinja
+
+C:\Users\Cuhleeevunt\Desktop\githubShit\ece196\spinning-and-blinking-team-12\firmware\target\release\build\xtensa-lx-rt-9add8f2602d95cb9\build_script_build-9add8f2602d95cb9.d: C:\Users\Cuhleeevunt\.cargo\git\checkouts\esp-hal-42ec44e8c6943228\0981c1b\xtensa-lx-rt\build.rs C:\Users\Cuhleeevunt\.cargo\git\checkouts\esp-hal-42ec44e8c6943228\0981c1b\xtensa-lx-rt\xtensa.in.x C:\Users\Cuhleeevunt\.cargo\git\checkouts\esp-hal-42ec44e8c6943228\0981c1b\xtensa-lx-rt\interrupt_level_masks.rs.jinja C:\Users\Cuhleeevunt\.cargo\git\checkouts\esp-hal-42ec44e8c6943228\0981c1b\xtensa-lx-rt\exception-esp32.x.jinja
+
+C:\Users\Cuhleeevunt\.cargo\git\checkouts\esp-hal-42ec44e8c6943228\0981c1b\xtensa-lx-rt\build.rs:
+C:\Users\Cuhleeevunt\.cargo\git\checkouts\esp-hal-42ec44e8c6943228\0981c1b\xtensa-lx-rt\xtensa.in.x:
+C:\Users\Cuhleeevunt\.cargo\git\checkouts\esp-hal-42ec44e8c6943228\0981c1b\xtensa-lx-rt\interrupt_level_masks.rs.jinja:
+C:\Users\Cuhleeevunt\.cargo\git\checkouts\esp-hal-42ec44e8c6943228\0981c1b\xtensa-lx-rt\exception-esp32.x.jinja:

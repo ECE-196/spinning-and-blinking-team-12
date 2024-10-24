@@ -1,0 +1,1 @@
+C:\Users\Cuhleeevunt\Desktop\githubShit\ece196\spinning-and-blinking-team-12\firmware\target\xtensa-esp32s3-none-elf\release\firmware: C:\Users\Cuhleeevunt\Desktop\githubShit\ece196\spinning-and-blinking-team-12\firmware\build.rs C:\Users\Cuhleeevunt\Desktop\githubShit\ece196\spinning-and-blinking-team-12\firmware\src\main.rs

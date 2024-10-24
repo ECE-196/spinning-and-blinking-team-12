@@ -1,0 +1,10 @@
+C:\Users\Cuhleeevunt\Desktop\githubShit\ece196\spinning-and-blinking-team-12\firmware\target\xtensa-esp32s3-none-elf\release\deps\liblock_api-6d269a2b36a1f6ec.rmeta: C:\Users\Cuhleeevunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.12\src\lib.rs C:\Users\Cuhleeevunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.12\src\mutex.rs C:\Users\Cuhleeevunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.12\src\remutex.rs C:\Users\Cuhleeevunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.12\src\rwlock.rs
+
+C:\Users\Cuhleeevunt\Desktop\githubShit\ece196\spinning-and-blinking-team-12\firmware\target\xtensa-esp32s3-none-elf\release\deps\liblock_api-6d269a2b36a1f6ec.rlib: C:\Users\Cuhleeevunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.12\src\lib.rs C:\Users\Cuhleeevunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.12\src\mutex.rs C:\Users\Cuhleeevunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.12\src\remutex.rs C:\Users\Cuhleeevunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.12\src\rwlock.rs
+
+C:\Users\Cuhleeevunt\Desktop\githubShit\ece196\spinning-and-blinking-team-12\firmware\target\xtensa-esp32s3-none-elf\release\deps\lock_api-6d269a2b36a1f6ec.d: C:\Users\Cuhleeevunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.12\src\lib.rs C:\Users\Cuhleeevunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.12\src\mutex.rs C:\Users\Cuhleeevunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.12\src\remutex.rs C:\Users\Cuhleeevunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.12\src\rwlock.rs
+
+C:\Users\Cuhleeevunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.12\src\lib.rs:
+C:\Users\Cuhleeevunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.12\src\mutex.rs:
+C:\Users\Cuhleeevunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.12\src\remutex.rs:
+C:\Users\Cuhleeevunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\lock_api-0.4.12\src\rwlock.rs:

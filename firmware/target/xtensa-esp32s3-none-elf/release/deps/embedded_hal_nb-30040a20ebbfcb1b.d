@@ -1,0 +1,9 @@
+C:\Users\Cuhleeevunt\Desktop\githubShit\ece196\spinning-and-blinking-team-12\firmware\target\xtensa-esp32s3-none-elf\release\deps\libembedded_hal_nb-30040a20ebbfcb1b.rmeta: C:\Users\Cuhleeevunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embedded-hal-nb-1.0.0\src\lib.rs C:\Users\Cuhleeevunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embedded-hal-nb-1.0.0\src\serial.rs C:\Users\Cuhleeevunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embedded-hal-nb-1.0.0\src\spi.rs
+
+C:\Users\Cuhleeevunt\Desktop\githubShit\ece196\spinning-and-blinking-team-12\firmware\target\xtensa-esp32s3-none-elf\release\deps\libembedded_hal_nb-30040a20ebbfcb1b.rlib: C:\Users\Cuhleeevunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embedded-hal-nb-1.0.0\src\lib.rs C:\Users\Cuhleeevunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embedded-hal-nb-1.0.0\src\serial.rs C:\Users\Cuhleeevunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embedded-hal-nb-1.0.0\src\spi.rs
+
+C:\Users\Cuhleeevunt\Desktop\githubShit\ece196\spinning-and-blinking-team-12\firmware\target\xtensa-esp32s3-none-elf\release\deps\embedded_hal_nb-30040a20ebbfcb1b.d: C:\Users\Cuhleeevunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embedded-hal-nb-1.0.0\src\lib.rs C:\Users\Cuhleeevunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embedded-hal-nb-1.0.0\src\serial.rs C:\Users\Cuhleeevunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embedded-hal-nb-1.0.0\src\spi.rs
+
+C:\Users\Cuhleeevunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embedded-hal-nb-1.0.0\src\lib.rs:
+C:\Users\Cuhleeevunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embedded-hal-nb-1.0.0\src\serial.rs:
+C:\Users\Cuhleeevunt\.cargo\registry\src\index.crates.io-6f17d22bba15001f\embedded-hal-nb-1.0.0\src\spi.rs:
